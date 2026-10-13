@@ -40,7 +40,7 @@ $ git clone https://github.com/Notava1ble/mcsr-obs-inv-displayer.git
 set up streamtool following the instructions here:\
 https://github.com/mirailuv/streamtool
 
-set up inventory viewer:\
+set up inventory viewer: (optional, it's now disabled by default)\
 open terminal in the mcsr-obs-inv-displayer folder.\
 rename .env.example to .env\
 edit the file and change INPUT_FILE to be the path to the symlink you created for streamtool.\
